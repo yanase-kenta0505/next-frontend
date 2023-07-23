@@ -10,6 +10,8 @@ export default function CreateTodo() {
         userId: 2
       })
     })
+
+    console.log('end')
   }
 
   return (
